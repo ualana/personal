@@ -11,15 +11,25 @@ hr {
     border: 1px solid #6A8EAE;
 }
 
+#ubicacion {
+  font-size: 12px;
+  font-style:italic;
+  margin-top: 20px;
+  color:grey;
+}
+
+.educacion {
+  margin-top: 30px;
+}
+
 .iconos {
     display: flex;
     flex-direction: row;
-  }
-
-.iconos img {
-    width: 20px;
-    height: 20px;
     margin: 10px;
+}
+
+.iconos i:hover {
+  color: #6A8EAE;
 }
 
 .footer {
