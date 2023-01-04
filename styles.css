@@ -36,7 +36,7 @@ hr {border: 1px solid #FE5F55;}
 .icons i, p {color: #FE5F55;}
 
 
-.icons i:hover {color: #6B818C;}
+.icons i:hover, p:hover {color: #6B818C;}
 
 .footer {
     position: absolute;
