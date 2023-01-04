@@ -8,7 +8,7 @@ body {
 }
 
 hr {
-    border: 1px solid #6A8EAE;
+    border: 1px solid #FE5F55;
 }
 
 #ubicacion {
@@ -26,10 +26,16 @@ hr {
     display: flex;
     flex-direction: row;
     margin: 10px;
+    align-items: center;
 }
 
+.iconos i, p {
+  color: #FE5F55;
+}
+
+
 .iconos i:hover {
-  color: #6A8EAE;
+  color: #6B818C;
 }
 
 .footer {
